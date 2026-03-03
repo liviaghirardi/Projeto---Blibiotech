@@ -1,0 +1,41 @@
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 5vh 0;
+
+}
+.itens{
+    display: flex;
+    gap: 25px;
+
+}
+.botao{
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    background-color: #BE580F;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+}
+.cabecalho img{
+    width: 200px;
+}
+.hero {
+    width: 100vw;
+    height: 95vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-image: url("assets/fundo.jpeg");
+}
+
+.hero h1{
+    color: white;
+    font-weight: 800;
+    font-size: 4rem;
+}
+.hero p{
+    color: white;
+}
