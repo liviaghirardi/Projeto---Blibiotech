@@ -14,11 +14,11 @@ O projeto consiste em uma página inicial moderna com:
 A proposta é apresentar uma biblioteca tecnológica com visual limpo, organizado e responsivo.
 
 🛠️ Tecnologias Utilizadas
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
-VS CODE 
+- VS CODE 
 
 Flexbox para alinhamento e organização dos elementos
 
